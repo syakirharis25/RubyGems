@@ -10,7 +10,7 @@ My works related to RubyGems, a package manager for the Ruby programming languag
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="rubygems.jpg" height="110"> 
+<img src="rubygems.jpg" height="150"> 
 RubyGems is a package manager for the Ruby programming language that provides a standard format for distributing Ruby programs and libraries (in a self-contained format called a "gem"), a tool designed to easily manage the installation of gems, and a server for distributing them. It was created by Chad Fowler, Jim Weirich, David Alan Black, Paul Brannan and Richard Kilmer during RubyConf 2004.
 <br /><br />
 The interface for RubyGems is a command-line tool called gem which can install and manage libraries (the gems). RubyGems integrates with Ruby run-time loader to help find and load installed gems from standardized library folders. Though it is possible to use a private RubyGems repository, the public repository is most commonly used for gem management.
