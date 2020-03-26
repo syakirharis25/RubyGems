@@ -26,6 +26,7 @@ RubyGems official documentation : https://guides.rubygems.org <br />
 bundler : https://rubygems.org/gems/bundler <br />
 rails : https://rubygems.org/gems/rails <br />
 gem : https://rubygems.org/gems/gem <br />
+sqlite3 : https://rubygems.org/gems/sqlite3 <br />
 
 <a name="developers"></a>
 ## 4. RubyGems developers.
