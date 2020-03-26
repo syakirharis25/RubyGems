@@ -23,11 +23,16 @@ RubyGems official website : https://rubygems.org <br />
 RubyGems official documentation : https://guides.rubygems.org <br />
 
 **_RubyGems packages_** <br />
-[ draft ]
+bundler : https://rubygems.org/gems/bundler <br />
+rails : https://rubygems.org/gems/rails <br />
+gem : https://rubygems.org/gems/gem <br />
 
 <a name="developers"></a>
-## 4. Ruby developers.
-[ draft ]
+## 4. RubyGems developers.
+Chad Fowler : https://github.com/chad, https://twitter.com/chadfowler <br />
+Jim Weirich : https://github.com/jimweirich, https://twitter.com/jimweirich <br />
+Paul Brannan : https://github.com/cout <br />
+Richard Kilmer : https://github.com/richkilmer <br />
  
 <a name="github"></a>
 ## 5. GitHub notes.
